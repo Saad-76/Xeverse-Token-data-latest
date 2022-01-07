@@ -39,7 +39,7 @@ const Footer = () => {
             <img src={Logo} alt="head"   />
 
             <p>
-              Atari stands firmly in support of freedom and the liberty that
+            Xee Verse stands firmly in support of freedom and the liberty that
               blockchain provides globally for anyone to voluntarily participate
               in a permissionless and decentralized network.
             </p>

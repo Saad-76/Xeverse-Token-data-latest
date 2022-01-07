@@ -14,7 +14,7 @@ const HomePage = () => {
             <h2>Xverse Token</h2>
             <p>
               We are building the token that will power the future of the
-              inyteractive enytertainment industry{" "}
+              interactive entertainment industry{" "}
             </p>
             <h2>Contract Address</h2>
             <p>
@@ -23,7 +23,7 @@ const HomePage = () => {
             </p>
 
             <p>
-              <span>Contract Adress="0x00000000000000000000"</span>
+              <span>Contract Address="0x00000000000000000000"</span>
             </p>
 
           </div>

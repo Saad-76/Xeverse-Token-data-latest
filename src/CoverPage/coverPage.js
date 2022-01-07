@@ -27,7 +27,7 @@ const CoverPage = () => {
       <span></span>
       <span></span>
       <span></span>
-     Enter Xverse
+     Enter Xee Verse
     </Link>
         {/* <button className="coverPage_button__style" onClick={handleNextPage}>
           Click To Enter Website

@@ -110,7 +110,7 @@ const Footer = () => {
 
         <div class="footer">
           <div class="footer-text">
-            <p>Xverse © 2022, All rights reserved</p>
+            <p>Xee Verse © 2022, All rights reserved</p>
           </div>
         </div>
       </div>

@@ -76,13 +76,13 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
- 
     height: 100vh;
     /* background: #050801; */
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
   }
  .content-style-coverpage  a {
+  border-radius: 15px;
     position: relative;
     display: inline-block;
     padding: 25px 30px;

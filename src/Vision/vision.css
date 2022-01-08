@@ -211,8 +211,7 @@ padding-top: 12%;
 .white-paper-button-style  a {
   position: relative;
   display: inline-block;
-  padding: 15px 20px;
-  /* margin: 40px 0; */
+  padding: 12px 20px;  /* margin: 40px 0; */
   color: #ededed;
   border-radius: 20px;
   font-family: 'Bwmodel';

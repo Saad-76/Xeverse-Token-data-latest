@@ -48,14 +48,22 @@ padding-top: 10%;
   display: flex;
   flex-direction: column;
 }
-.homePage_content__style h2 {
+/* .homePage_content__style h2 {
   font-family: Bwmodel;
   font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.5px;
   margin-top: 30px;
+} */
+.homePage_content__style h2 {
+  font-family: Bwmodel;
+  font-size: 20px;
+  /* font-weight: 600; */
+  letter-spacing: 0.5px;
+  margin-top: 5px;
 }
- p {
+  p {
+    font-size: 14px;
     font-family: Bwmodel;
     line-break: normal;
     letter-spacing: 0.5px;

@@ -2,6 +2,10 @@
   font-family: Azonix;
   src: url(../Assests/Azonix.otf);
 }
+@font-face {
+  font-family: OpenSans;
+  src: url(../Assests/OpenSans-VariableFont_wdth\,wght.ttf);
+}
 
 @font-face {
   font-family: Montserrat;
@@ -13,10 +17,10 @@
   src: url(../Assests/CourierPrime-Regular.ttf);
 }
 
-.top-head {
+/* .top-head {
   background-color: black;
-  font-family: Montserrat;
-}
+  font-family: OpenSans;
+} */
 .nav-bar-sl {
   display: none;
 }
@@ -27,7 +31,7 @@
   /* position: relative; */
   background-color: black;
   /* position: absolute; */
-  padding-top: 20px;
+  padding-top: 5px;
   display: flex;
   color: white;
   padding-left: 50px;
@@ -44,11 +48,10 @@
 }
 
 .haed-nav-img img {
-  height: 50px;
-
+  height: 43px;
   margin: 0;
-  /* padding: 0; */
-  padding-left: 10%;
+ 
+  padding-left: 18%;
 
 }
 .haed-nav-btns p {
@@ -124,10 +127,17 @@
       padding: 10px;
   } */
 
+
+  .top-head {
+    background-color: black;
+    /* font-family: Montserrat; */
+}
+
 .haed-nav-btns a {
   display: inline-block;
   color: white;
   text-decoration: none;
+  font-size: 14px;  font-weight: 500;
 }
 
 .haed-nav-btns a::after {

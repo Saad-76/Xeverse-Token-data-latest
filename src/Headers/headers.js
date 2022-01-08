@@ -58,12 +58,7 @@ const Headers = () => {
               <p>Partner</p>{" "}
             </AnchorLink>
           </div>
-          <div className="slide-down">
-            <AnchorLink className="nav-links single " href="#faqs">
-              {" "}
-              <p>FAQ</p>{" "}
-            </AnchorLink>
-          </div>
+        
           <div className="slide-down">
             <AnchorLink className="nav-links single " href="#form">
               {" "}
@@ -107,10 +102,7 @@ const Headers = () => {
             <div></div>
           </AnchorLink>
 
-          <AnchorLink className="nav-linkss single " href="#faqs">
-            FAQ
-            <div></div>
-          </AnchorLink>
+        
           <AnchorLink className="nav-linkss single " href="#form">
             Contact
             <div></div>

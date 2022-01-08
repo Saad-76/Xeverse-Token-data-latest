@@ -10,7 +10,7 @@ import "./reactCarousel.css"
 const ReactCarousel=()=> {
     return (
         <div>
-          <h1 className='slider-carousel-heading'> SLIDER</h1>
+          <h1 className='slider-carousel-heading'> Media</h1>
           <div className="container carousel-style">
             <div className="bg-color ">
             <Carousel >

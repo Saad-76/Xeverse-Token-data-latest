@@ -137,7 +137,8 @@
   display: inline-block;
   color: white;
   text-decoration: none;
-  font-size: 14px;  font-weight: 500;
+  font-size: 12px;
+    font-weight: 500;
 }
 
 .haed-nav-btns a::after {

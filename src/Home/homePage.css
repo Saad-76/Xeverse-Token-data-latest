@@ -63,10 +63,11 @@ padding-top: 10%;
   margin-top: 5px;
 }
   p {
-    font-size: 14px;
+    font-size: 15px;
     font-family: Bwmodel;
     line-break: normal;
     letter-spacing: 0.5px;
+    line-height: 24px;
   }
 .homePage_content__style {
   /* margin-top: 12%; */

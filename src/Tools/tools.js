@@ -11,7 +11,7 @@ const Tools = () => {
       </h1>
       <div className="col-md-12 row tool-card-main">
         <div className="col-md-3 row tools_card_design_first">
-          <h4>OUR PORTAL</h4>
+          <h4 className="heading-style-h4-first">OUR PORTAL</h4>
           {/* <p>Buy with Atarichain</p> */}
           {/* <button className="tool-button-style">VISIT WEB </button> */}
           <div className="tool-buttons">
@@ -26,7 +26,7 @@ const Tools = () => {
         </div>
 
         <div className="col-md-3 row tools_card_design_Second">
-          <h4>XVERSE</h4>
+          <h4 className="heading-style-h4">XVERSE</h4>
           {/* <p>Buy with your wallet</p> */}
           {/* <button className="tool-button-style">DEV APP</button> */}
           <div className="tool-buttons">
@@ -41,7 +41,7 @@ const Tools = () => {
         </div>
 
         <div className="col-md-3 row tools_card_design_Third">
-          <h4>TOKEN</h4>
+          <h4 className="heading-style-h4">TOKEN</h4>
           {/* <p>SMART WALLET</p> */}
           {/* <button className="tool-button-style">CONTACT  </button> */}
           <div className="tool-buttons">
@@ -56,7 +56,7 @@ const Tools = () => {
         </div>
 
         <div className="col-md-3 row tools_card_design_Fourth">
-          <h4>FARM </h4>
+          <h4 className="heading-style-h4">FARM </h4>
           {/* <p>DECENTRALIZED EXCHANGE</p> */}
           {/* <button className="tool-button-style">VISIT APP </button> */}
           <div className="tool-buttons">

@@ -3,7 +3,7 @@
     color: white;
     display: flex;
     flex-wrap: wrap;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 400;
     flex-direction: row;
     justify-content: center;
@@ -36,6 +36,12 @@ color: white;
   -webkit-transform: scale(1.05); /* Safari 3-8 */
   transform: scale(1.05); 
   border: 2px solid #3486eb;
+}
+.heading-style-h4-first{
+  margin-left: 20%;
+}
+.heading-style-h4{
+  margin-left: 26%;
 }
 .tools_card_design_Second:hover{
   -ms-transform: scale(1.05); /* IE 9 */
@@ -131,6 +137,7 @@ color: white;
 .tool-buttons{
 padding-top: 18%;
 font-size: 12px;
+margin-left: 25%;
 
 
 /* padding-left: 6%; */

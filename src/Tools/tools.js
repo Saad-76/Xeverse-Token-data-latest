@@ -26,7 +26,7 @@ const Tools = () => {
         </div>
 
         <div className="col-md-3 row tools_card_design_Second">
-          <h4 className="heading-style-h4">XVERSE</h4>
+          <h4 className="heading-style-h4-middle">XVERSE</h4>
           {/* <p>Buy with your wallet</p> */}
           {/* <button className="tool-button-style">DEV APP</button> */}
           <div className="tool-buttons">
@@ -41,7 +41,7 @@ const Tools = () => {
         </div>
 
         <div className="col-md-3 row tools_card_design_Third">
-          <h4 className="heading-style-h4">TOKEN</h4>
+          <h4 className="heading-style-h4-middle">TOKEN</h4>
           {/* <p>SMART WALLET</p> */}
           {/* <button className="tool-button-style">CONTACT  </button> */}
           <div className="tool-buttons">

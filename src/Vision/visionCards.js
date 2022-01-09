@@ -15,7 +15,7 @@ const VisionCards = () => {
         {/* <div className="container"> */}
         <div className="smart-contract px-4 ">
           <img src={Safety_icon} alt="safetyicon" />
-          <h1>Smart contract security</h1>
+          <h1> Contract security</h1>
           <p>
             Since each transaction is stored on a distributed ledger, tampering
             with a recorded history or minting new tokens from thin air to
@@ -45,7 +45,7 @@ const VisionCards = () => {
         <div className=" skills-matter px-4">
 
       <img src={Skills_icon} alt="safetyicon" />
-          <h1>SKILLS  <br/>MATTER</h1>
+          <h1>SKILLS MATTER</h1>
           <p>
             We are working on innovative games in which you can stake tokens
             against other players. The best player wins the prize.
@@ -60,7 +60,7 @@ const VisionCards = () => {
           <div className=" much-more px-4">
         {/* <div className="container"> */}
         <img src={Muchmore_icon} alt="safetyicon" />
-          <h1>MUCH <br/> MORE</h1>
+          <h1>MUCH  MORE</h1>
           <p>
             This is a long-term plan and we will continue to develop our
             portfolio of use cases in accordance with applicable regulations.

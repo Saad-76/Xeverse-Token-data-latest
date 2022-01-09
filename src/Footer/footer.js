@@ -63,8 +63,8 @@ const Footer = () => {
             </AnchorLink>
 
 
-            <AnchorLink className="nav-links" href="#faqs">
-              FAQ
+            <AnchorLink className="nav-links" href="#vision">
+              Media
               <div></div>
             </AnchorLink>
 
